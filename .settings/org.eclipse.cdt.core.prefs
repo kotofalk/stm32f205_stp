@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1460933806/PATH/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1460933806/PATH/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1460933806/PATH/value=${PATH_GNUARM}
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1460933806/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1460933806/appendContributed=false
